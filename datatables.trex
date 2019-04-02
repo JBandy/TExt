@@ -8,7 +8,7 @@
     <min-api-version>0.9</min-api-version>
     <source-location>
       <!--url>https://tableaumagic.com/datatable/index.html</url-->
-      <url>https://jbandy.github.io/TExt/public</url>
+      <url>https://github.com/JBandy/TExt/public</url>
     </source-location>
     <icon>iVBORw0KGgoAAAANSUhEUgAAAEAAAABAAQMAAACQp+OdAAAABlBMVEUAAAAAAAClZ7nPAAAAAXRSTlMAQObYZgAAACdJREFUKJFjYKAS+EA04z8hxn9qMfg/UIEBJAcVg4hw/g8F+BhUAgCAtrS1v85ACwAAAABJRU5ErkJggg==</icon>
     <permissions>
